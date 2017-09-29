@@ -5,16 +5,15 @@
 Web Application Development
 
 ## Assignment Date:  
-(Month Day, Year)
+Sept. 29, 2017
 
 ## Student Name:  
-(First and Last Name)
+Connor Blay
 
 ## Project Description:
-(In your own words, briefly describe the assignment.)
+In this project, I created a GitHub account and connected my Cloud9 account to the GitHub account. I then edited the Bootstrap index.html file to include 5 key concepts learned in this lesson.
 
 ## Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
-
+1. I learned how to set up a GitHub account and how to connect that account to Cloud9.
+2. I learned basic Git commands.
+3. I learned how to check the save status of a Git repository.
