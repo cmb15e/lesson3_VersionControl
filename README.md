@@ -13,6 +13,9 @@ Connor Blay
 ## Project Description:
 In this project, I created a GitHub account and connected my Cloud9 account to the GitHub account. I then edited the Bootstrap index.html file to include 5 key concepts learned in this lesson.
 
+## View Project:
+https://cmb15e.github.io/lesson3_VersionControl/
+
 ## Lessons Learned in the Assignment:
 1. I learned how to set up a GitHub account and how to connect that account to Cloud9.
 2. I learned basic Git commands.
